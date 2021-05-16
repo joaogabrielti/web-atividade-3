@@ -422,6 +422,7 @@ section.more-info div.container div.video iframe {
 .newsletter-form > form input {
     background-color: #eeeeee;
     font-size: 18px;
+    margin: 4px;
     padding: 8px;
     border: 1px solid #bdbdbd;
     border-radius: 4px;
