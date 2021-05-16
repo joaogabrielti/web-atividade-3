@@ -443,6 +443,7 @@ footer {
 footer > div.container {
     display: flex;
     flex-direction: row;
+    align-items: center;
     padding: 24px 0px;
 }
 footer a {
